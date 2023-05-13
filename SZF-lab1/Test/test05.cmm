@@ -1,0 +1,6 @@
+int main()
+{
+  //this is test
+ int i = 1;
+ int j = i;
+}
